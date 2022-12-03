@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jayaprakash (JP) @rushtojp
 - 👀 I’m interested in technology enabling business and life! using technology to exponentially transform lives!
-- 🌱 I’m currently learning Terragrunt, SRE and living life better!
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jp@digitalpeak.in - jayaprak@buffalo.edu
 
 <!---
